@@ -38,7 +38,7 @@ $(document).ready(function(){
 function TulostaHuoltohistoria(historia)
 {
 	var out;
-	var obj = {};
+	//var obj = {};
 	
 		if (historia.huoltohistoria.length === 0)
 		{
